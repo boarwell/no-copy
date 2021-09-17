@@ -19,3 +19,21 @@ based on [HTML でコピペできそうでできない要素を作る - mizchi's
 ## Prevent `copy` Event (JavaScript)
 
 ## Replace with image (HTML)
+
+## Draggable (HTML)
+
+```html
+<section draggable="true">
+  <p>~~~</p>
+  <p>~~~</p>
+  <p>~~~</p>
+</section>
+```
+
+[Demo ➡](./demo/draggable/)
+
+When `draggable="true"` is set on an element that has a text, the default browser behavior (in this case, text selection) will be replaced with dragging the element. Thus, the text will not be selected.
+
+[draggable - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/draggable)
+
+However, the element can still be selected if text selection starts from other elements. This is also not a perfect solution.
