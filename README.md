@@ -30,7 +30,7 @@ based on [HTML でコピペできそうでできない要素を作る - mizchi's
 </section>
 ```
 
-[Demo ➡](./demo/draggable/)
+[Demo ➡](https://boarwell.github.io/no-copy/demo/draggable/)
 
 When `draggable="true"` is set on an element that has a text, the default browser behavior (in this case, text selection) will be replaced with dragging the element. Thus, the text will not be selected.
 
