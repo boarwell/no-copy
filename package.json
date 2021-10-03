@@ -6,9 +6,9 @@
   "type": "dist/main.d.ts",
   "scripts": {},
   "keywords": [],
-  "author": "shu7ii",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^4.2.2"
+    "typescript": "^4.4.3"
   }
 }
