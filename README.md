@@ -14,6 +14,8 @@ Use `display: inline-flex` and `order: xxx`
 
 based on [HTML でコピペできそうでできない要素を作る - mizchi's blog](https://mizchi.hatenablog.com/entry/2019/03/10/015208)
 
+[Demo ➡](https://boarwell.github.io/no-copy/demo/change-order/)
+
 ## `user-select: none` (CSS)
 
 The most straightforward way, used on Google's lyrics search result pages.
