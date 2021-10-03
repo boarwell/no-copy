@@ -16,6 +16,10 @@ based on [HTML でコピペできそうでできない要素を作る - mizchi's
 
 ## `user-select: none` (CSS)
 
+The most straightforward way, used on Google's lyrics search result pages.
+
+[Demo ➡](https://boarwell.github.io/no-copy/demo/user-select/)
+
 ## Prevent `copy` Event (JavaScript)
 
 ## Replace with image (HTML)
